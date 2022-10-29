@@ -1,0 +1,9 @@
+{
+    "extends": "@proyects/tsconfig/base.json",
+    "include": ["./src/**/*.tsx", "./src/**/*.ts"],
+    "exclude": ["node_modules"],
+    "compilerOptions": {
+        "outDir": "./dist",
+        "declarationDir": "./@types"
+    }
+}

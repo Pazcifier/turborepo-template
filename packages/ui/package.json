@@ -1,0 +1,12 @@
+{
+  "name": "@proyects/ui",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@proyects/tsconfig": "*",
+    "@types/react": "^18.0.24",
+    "@types/react-dom": "^18.0.8",
+    "typescript": "^4.8.4"
+  }
+}

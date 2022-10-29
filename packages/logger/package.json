@@ -1,0 +1,17 @@
+{
+  "name": "@proyects/logger",
+  "version": "1.0.0",
+  "main": "./dist/index.js",
+  "types": "./@types",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@proyects/tsconfig": "*"
+  },
+  "devDependencies": {
+    "typescript": "^4.8.3"
+  }
+}
