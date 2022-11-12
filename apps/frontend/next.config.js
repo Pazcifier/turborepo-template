@@ -1,5 +1,7 @@
-const withTM = require("next-transpile-modules")(["@proyects/ui"]);
-
-module.exports = withTM({
+module.exports = {
   reactStrictMode: true,
-});
+  experimental: {
+    appDir: true,
+    transpilePackages: ["@proyect-name/ui"]
+  }
+};

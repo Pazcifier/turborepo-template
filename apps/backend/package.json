@@ -1,5 +1,5 @@
 {
-  "name": "@proyects/backend",
+  "name": "@proyect-name/backend",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -8,7 +8,7 @@
     "dev": "ts-node-dev ./src/index.ts"
   },
   "dependencies": {
-    "@proyects/logger": "*"
+    "@proyect-name/logger": "*"
   },
   "devDependencies": {
     "ts-node": "^10.9.1",

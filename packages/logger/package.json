@@ -1,5 +1,5 @@
 {
-  "name": "@proyects/logger",
+  "name": "@proyect-name/logger",
   "version": "1.0.0",
   "main": "./dist/index.js",
   "types": "./@types",
@@ -9,7 +9,7 @@
     "build": "tsc"
   },
   "dependencies": {
-    "@proyects/tsconfig": "*"
+    "@proyect-name/tsconfig": "*"
   },
   "devDependencies": {
     "typescript": "^4.8.3"

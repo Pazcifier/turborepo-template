@@ -1,3 +1,3 @@
-import logger from "@proyects/logger";
+import logger from "@proyect-name/logger";
 
-logger.log("Hola")
+logger.log("Hola");

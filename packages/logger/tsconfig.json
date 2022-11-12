@@ -1,5 +1,5 @@
 {
-    "extends": "@proyects/tsconfig/base.json",
+    "extends": "@proyect-name/tsconfig/base.json",
     "include": ["./src/**/*.tsx", "./src/**/*.ts"],
     "exclude": ["node_modules"],
     "compilerOptions": {

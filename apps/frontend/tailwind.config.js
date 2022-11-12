@@ -1,1 +1,1 @@
-module.exports = require("@proyects/config/tailwind.config");
+module.exports = require("@proyect-name/config/tailwind.config");

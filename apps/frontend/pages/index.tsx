@@ -1,5 +1,5 @@
 import Head from "next/head";
-import { Button } from "@proyects/ui";
+import { Button } from "@proyect-name/ui";
 
 export default function Docs() {
   return (
